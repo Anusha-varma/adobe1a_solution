@@ -1,0 +1,125 @@
+{
+  "title": "Abstract",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Abstract",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "include an encoder and a decoder. The best performing models also connect the encoder and decoder through an",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "model achieves 28.4 BLEU on the WMT 2014 Englishto-German translation task, improving over the existing best results,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "successfully to English constituency parsing both with large and limited training data.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Problem Statement",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Abstract",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "include an encoder and a decoder. The best performing models also connect the encoder and decoder through an",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "model achieves 28.4 BLEU on the WMT 2014 Englishto-German translation task, improving over the existing best results,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "successfully to English constituency parsing both with large and limited training data.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Problem Statement",
+      "page": 2
+    }
+  ]
+}
